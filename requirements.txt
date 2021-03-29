@@ -111,7 +111,7 @@ psclient==2.0
 py==1.5.2
 pyasn1==0.4.2
 pydocumentdb==2.2.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyLDAvis==2.1.1
 PyNaCl==1.1.2
 pytest==3.4.0
