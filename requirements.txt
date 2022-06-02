@@ -66,7 +66,7 @@ gensim==3.3.0
 genson==0.1.0
 GraphLab-Create==2.1
 GraphLab-Create-License==2.1
-html5lib==0.999
+html5lib==0.99999999
 humanfriendly==4.4.1
 ipykernel==4.6.1
 ipython==5.3.0
